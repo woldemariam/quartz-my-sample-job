@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1;net461</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    
+    <PackageReference Include="Quartz" Version="3.3.2" />
+    
+  </ItemGroup>
+
+</Project>
