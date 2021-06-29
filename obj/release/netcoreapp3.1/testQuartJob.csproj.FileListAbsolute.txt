@@ -1,0 +1,9 @@
+C:\temp\testQuartJob\bin\release\netcoreapp3.1\testQuartJob.deps.json
+C:\temp\testQuartJob\bin\release\netcoreapp3.1\testQuartJob.dll
+C:\temp\testQuartJob\bin\release\netcoreapp3.1\testQuartJob.pdb
+C:\temp\testQuartJob\obj\release\netcoreapp3.1\testQuartJob.csproj.AssemblyReference.cache
+C:\temp\testQuartJob\obj\release\netcoreapp3.1\testQuartJob.AssemblyInfoInputs.cache
+C:\temp\testQuartJob\obj\release\netcoreapp3.1\testQuartJob.AssemblyInfo.cs
+C:\temp\testQuartJob\obj\release\netcoreapp3.1\testQuartJob.csproj.CoreCompileInputs.cache
+C:\temp\testQuartJob\obj\release\netcoreapp3.1\testQuartJob.dll
+C:\temp\testQuartJob\obj\release\netcoreapp3.1\testQuartJob.pdb
